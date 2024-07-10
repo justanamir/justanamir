@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justanamir
 - 👀 I’m interested in fullstack web developing
-- 🌱 I’m currently learning HTML/CSS/JS/REACT/NODE
+- 🌱 I’m currently learning HTML/CSS/JS/HTMX/REACT/NODE/GO
 - 💞️ I’m looking to collaborate on web developing
 - 📫 How to reach me ~ amirdanialmuslim@gmail.com
 
